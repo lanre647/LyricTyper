@@ -1,0 +1,14 @@
+C:\Users\LANRE\Documents\LyricTyper\bin\Debug\net9.0\LyricTyper.exe
+C:\Users\LANRE\Documents\LyricTyper\bin\Debug\net9.0\LyricTyper.deps.json
+C:\Users\LANRE\Documents\LyricTyper\bin\Debug\net9.0\LyricTyper.runtimeconfig.json
+C:\Users\LANRE\Documents\LyricTyper\bin\Debug\net9.0\LyricTyper.dll
+C:\Users\LANRE\Documents\LyricTyper\bin\Debug\net9.0\LyricTyper.pdb
+C:\Users\LANRE\Documents\LyricTyper\obj\Debug\net9.0\LyricTyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LANRE\Documents\LyricTyper\obj\Debug\net9.0\LyricTyper.AssemblyInfoInputs.cache
+C:\Users\LANRE\Documents\LyricTyper\obj\Debug\net9.0\LyricTyper.AssemblyInfo.cs
+C:\Users\LANRE\Documents\LyricTyper\obj\Debug\net9.0\LyricTyper.csproj.CoreCompileInputs.cache
+C:\Users\LANRE\Documents\LyricTyper\obj\Debug\net9.0\LyricTyper.dll
+C:\Users\LANRE\Documents\LyricTyper\obj\Debug\net9.0\refint\LyricTyper.dll
+C:\Users\LANRE\Documents\LyricTyper\obj\Debug\net9.0\LyricTyper.pdb
+C:\Users\LANRE\Documents\LyricTyper\obj\Debug\net9.0\LyricTyper.genruntimeconfig.cache
+C:\Users\LANRE\Documents\LyricTyper\obj\Debug\net9.0\ref\LyricTyper.dll
